@@ -6,20 +6,16 @@ This project analyzes 2020 U.S. traffic accident data to identify patterns based
 ## 📊 Key Visualizations
 
 ### 1. Top 10 States by Number of Accidents
-![Accidents by State](<img width="2000" height="1200" alt="accidents_by_state" src="https://github.com/user-attachments/assets/66375b3b-a34a-473e-b7fd-55dc8b008541" />
-)
+![Accidents by State](accident_eda_outputs/accidents_by_state.png)
 
 ### 2. Accidents by Light Conditions
-![Light Conditions](<img width="2000" height="1200" alt="light_conditions" src="https://github.com/user-attachments/assets/9c6ab187-82d5-4006-8046-981d88dd93a2" />
-)
+![Light Conditions](accident_eda_outputs/light_conditions.png)
 
 ### 3. Accidents by Weather Conditions
-![Weather Conditions](<img width="2000" height="1200" alt="weather_conditions" src="https://github.com/user-attachments/assets/f90e6d09-6c30-40f6-9fda-91b04db0a533" />
-)
+![Weather Conditions](accident_eda_outputs/weather_conditions.png)
 
 ### 4. Accidents by Hour of the Day
-![Hourly Accidents](<img width="2400" height="1200" alt="accidents_by_hour" src="https://github.com/user-attachments/assets/a4e9d3cc-e3d7-46b6-87e0-544922346bdb" />
-)
+![Hourly Accidents](accident_eda_outputs/accidents_by_hour.png)
 
 ---
 
